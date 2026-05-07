@@ -1,0 +1,10 @@
+{
+    "name": "student/2026-library-system-activity",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Student\\2026LibrarySystemActivity\\": "src/"
+        }
+    },
+    "require": {}
+}
